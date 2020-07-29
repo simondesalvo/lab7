@@ -1,0 +1,12 @@
+/Users/simon/Documents/GrandCircus/lab7/bin/Debug/netcoreapp3.1/lab7.deps.json
+/Users/simon/Documents/GrandCircus/lab7/bin/Debug/netcoreapp3.1/lab7.runtimeconfig.json
+/Users/simon/Documents/GrandCircus/lab7/bin/Debug/netcoreapp3.1/lab7.runtimeconfig.dev.json
+/Users/simon/Documents/GrandCircus/lab7/bin/Debug/netcoreapp3.1/lab7.dll
+/Users/simon/Documents/GrandCircus/lab7/bin/Debug/netcoreapp3.1/lab7.pdb
+/Users/simon/Documents/GrandCircus/lab7/obj/Debug/netcoreapp3.1/lab7.csprojAssemblyReference.cache
+/Users/simon/Documents/GrandCircus/lab7/obj/Debug/netcoreapp3.1/lab7.AssemblyInfoInputs.cache
+/Users/simon/Documents/GrandCircus/lab7/obj/Debug/netcoreapp3.1/lab7.AssemblyInfo.cs
+/Users/simon/Documents/GrandCircus/lab7/obj/Debug/netcoreapp3.1/lab7.csproj.CoreCompileInputs.cache
+/Users/simon/Documents/GrandCircus/lab7/obj/Debug/netcoreapp3.1/lab7.dll
+/Users/simon/Documents/GrandCircus/lab7/obj/Debug/netcoreapp3.1/lab7.pdb
+/Users/simon/Documents/GrandCircus/lab7/obj/Debug/netcoreapp3.1/lab7.genruntimeconfig.cache
